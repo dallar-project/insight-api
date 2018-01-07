@@ -32,6 +32,7 @@
     "async": "*",
     "bcoin": "dallar-project/bcoin#dallar",
     "bitcore-lib": "dallar-project/bitcore-lib",
+	"bitcore-lib-cash": "0.15.1", 
     "bitcore-message": "dallar-project/bitcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
